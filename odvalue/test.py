@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # 例子来源于朱位秋的论文StochasticAveragingOf.aaasiNonintegrable-Hamiltonl Systems, 1997
+# 绘制概率密度函数
 
 # 函数的定义需遵守t, y(可多维), ..., **kwargs 形式
 
