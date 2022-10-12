@@ -1,0 +1,10 @@
+setup.py
+Odvalue.egg-info/PKG-INFO
+Odvalue.egg-info/SOURCES.txt
+Odvalue.egg-info/dependency_links.txt
+Odvalue.egg-info/requires.txt
+Odvalue.egg-info/top_level.txt
+odvalue/__init__.py
+odvalue/config.py
+odvalue/test.py
+odvalue/utils.py

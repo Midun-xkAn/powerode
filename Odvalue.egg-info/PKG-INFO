@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Odvalue
+Version: 0.0.1
+Summary: First choice for solving ODE and SED.
+Home-page: https://github.com/Midun-xkAn/powerode
+Author: Midun
+Author-email: 2320483273@qq.com
+License: MIT Licence
+Keywords: pip,Odvalue
+Platform: any
+
+First choice for solving ODE and SED.
+
