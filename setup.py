@@ -11,7 +11,7 @@ setup(
     long_description = "First choice for solving ODE and SED.",
     license = "MIT Licence",		# 许可证
 
-    url = "https://github.com/Adenialzz/SongUtils",     #项目相关文件地址，一般是github项目地址即可
+    url = "https://github.com/Midun-xkAn/powerode",     #项目相关文件地址，一般是github项目地址即可
     author = "Midun",			# 作者
     author_email = "2320483273@qq.com",
 
